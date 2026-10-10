@@ -184,7 +184,7 @@ Dates, machine counts, recipes and the plan grid are real.
 └── images/
 ```
 
-Screenshots are rendered from the sample files in LibreOffice.
+The order planner, dashboard and monthly decision views are rebuilt from the sample workbooks' calculated values (substitute style codes and rescaled quantities, same as the files). The line plan and style recipe screenshots are rendered from the sample files in LibreOffice.
 
 ---
 
