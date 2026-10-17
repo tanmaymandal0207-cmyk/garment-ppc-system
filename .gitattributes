@@ -1,0 +1,9 @@
+# Excel workbooks and images are binary: no line-ending conversion or text diffs
+*.xlsx binary
+*.xlsm binary
+*.xlsb binary
+*.png  binary
+
+# Docs use LF line endings
+*.md   text eol=lf
+*.svg  text eol=lf
