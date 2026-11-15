@@ -186,6 +186,12 @@ Dates, machine counts, recipes and the plan grid are real.
 
 The order planner, dashboard and monthly decision views are rebuilt from the sample workbooks' calculated values (substitute style codes and rescaled quantities, same as the files). The line plan and style recipe screenshots are rendered from the sample files in LibreOffice.
 
+## Related projects
+
+- [Logistics Expense Tracker](https://github.com/tanmaymandal0207-cmyk/logistics-expense-tracker): FTL freight expense tracker with load-level SUMIFS reconciliation
+- [Inventory Reconciliation](https://github.com/tanmaymandal0207-cmyk/inventory-reconciliation): 11 years of challans and stock ledgers reconciled with an audit register
+- [Commercial Intelligence Dashboard](https://github.com/tanmaymandal0207-cmyk/Commercial-Intelligence-Dashboard): Power BI revenue, pricing and lifecycle analysis
+
 ---
 
 **Author:** Tanmay Mandal, Business Analysis · Operations · ERP
