@@ -174,6 +174,7 @@ Dates, machine counts, recipes and the plan grid are real.
 
 ```
 ├── README.md
+├── CHANGELOG.md     # release notes, review fixes, maintenance
 ├── workbooks/
 │   ├── PPC_Order_Planner_SAMPLE.xlsx             # Module 1
 │   └── PPC_Machine_Capacity_Planner_SAMPLE.xlsx  # Module 2
@@ -185,6 +186,10 @@ Dates, machine counts, recipes and the plan grid are real.
 ```
 
 The order planner, dashboard and monthly decision views are rebuilt from the sample workbooks' calculated values (substitute style codes and rescaled quantities, same as the files). The line plan and style recipe screenshots are rendered from the sample files in LibreOffice.
+
+## Changelog
+
+Release notes are in [CHANGELOG.md](CHANGELOG.md) (current release: v1.0, 8 Oct 2026).
 
 ## Related projects
 

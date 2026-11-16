@@ -21,3 +21,4 @@ Nine review findings were addressed in the working files and carried into the sa
 - 17 Oct 2026: added `.gitattributes` (workbooks and images binary, LF for docs).
 - 18 Oct 2026: added this changelog.
 - 15 Nov 2026: README links related portfolio projects.
+- 16 Nov 2026: README links the changelog; repository tree lists `CHANGELOG.md`.
