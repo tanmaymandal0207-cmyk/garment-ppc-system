@@ -1,5 +1,11 @@
 # Changelog
 
+## Unreleased
+
+### Docs
+- README: LinkedIn link in the author footer (21 Nov 2026).
+- README: Related projects added to the section navigation (22 Nov 2026).
+
 ## v1.0 — 8 Oct 2026
 
 First public release of the anonymised sample.
