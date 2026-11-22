@@ -16,7 +16,8 @@
 <a href="#module-2--machine-capacity-planner">Capacity planner</a> ·
 <a href="#validation">Validation</a> ·
 <a href="#review-and-fixes">Fixes</a> ·
-<a href="#repository-structure">Structure</a>
+<a href="#repository-structure">Structure</a> ·
+<a href="#related-projects">Related</a>
 </p>
 
 ---
