@@ -198,6 +198,8 @@ Release notes are in [CHANGELOG.md](CHANGELOG.md) (current release: v1.0, 8 Oct 
 - [Inventory Reconciliation](https://github.com/tanmaymandal0207-cmyk/inventory-reconciliation): 11 years of challans and stock ledgers reconciled with an audit register
 - [Commercial Intelligence Dashboard](https://github.com/tanmaymandal0207-cmyk/Commercial-Intelligence-Dashboard): Power BI revenue, pricing and lifecycle analysis
 
+<p align="right"><a href="#top">↑ Back to top</a></p>
+
 ---
 
 **Author:** Tanmay Mandal, Business Analysis · Operations · ERP · [LinkedIn](https://www.linkedin.com/in/tanmay-mandal-286623247)
