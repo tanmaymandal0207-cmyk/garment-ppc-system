@@ -1,5 +1,7 @@
 # Review findings and fixes
 
+[← Back to README](../README.md)
+
 Both workbooks were reviewed before publication. Every fix was applied to the working files first, then carried into the anonymised samples.
 
 **Verification approach:** each workbook was recalculated in a second engine (LibreOffice) and every formula result was compared with the original. A fix only counts when the plan's numbers are unchanged, unless the change was the intended one.
