@@ -1,5 +1,7 @@
 # Module 2: Machine capacity planner
 
+[← Back to README](../README.md)
+
 `workbooks/PPC_Machine_Capacity_Planner_SAMPLE.xlsx`
 
 ## Sheet map
