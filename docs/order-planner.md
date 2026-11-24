@@ -1,5 +1,7 @@
 # Module 1: Order planner
 
+[← Back to README](../README.md)
+
 `workbooks/PPC_Order_Planner_SAMPLE.xlsx`, sheets `Master` and `Holidays`.
 
 **Blue cells** are inputs and **grey cells** are formulas. Rows 3–200 are pre-built. Working days exclude Sundays (`"0000001"` weekend mask) and the dates listed in `Holidays!A6:A55`.
